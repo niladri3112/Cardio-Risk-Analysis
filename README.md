@@ -1,4 +1,4 @@
-# Heart-Disease-Analysis
+# Cardio-Risk-Analysis
 This repository contains Python code for analyzing heart disease data using popular libraries like Pandas, Seaborn, and Matplotlib. The analysis includes data visualization, exploration, and insights into heart disease data.
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -8,7 +8,6 @@ This repository contains Python code for analyzing heart disease data using popu
 1. [Usage](#usage)
 1. [Analysis](#analysis)
 1. [Contributing](#contributing)
-1. [License](#license)
 
 ## Introduction
 Heart disease is a significant health concern worldwide. Analyzing heart disease data can provide valuable insights into factors affecting heart health. This project demonstrates how to perform data analysis on heart disease data using Python.
@@ -28,9 +27,9 @@ The data used in this analysis can be obtained from [data set](https://www.kaggl
 
 ## Installation
 1. Clone this repository: <br>
-git clone https://github.com/satyaprakash2002/Heart-Disease-Analysis.git
+git clone https:https://github.com/niladri3112/Cardio-Risk-Analysis.git
 1. Change directory:
-cd Heart-Disease-Analysis
+cd Cardio-Risk-Analysis
 1. You can either download the dataset from the provided source link or use your own data. Place the data file in the project directory.
 
 ## Usage
@@ -47,7 +46,4 @@ Run the Jupyter Notebook or Python script to analyze the heart disease data.
 ## Contributing
 Contributions are welcome. You can contribute to this project by forking the repository, making your changes, and creating a pull request.
 
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code as per the terms of the license. <br>
 
-Note: Replace the image link, data source link, and other placeholders with actual information relevant to your project.
